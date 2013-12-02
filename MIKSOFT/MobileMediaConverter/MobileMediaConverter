@@ -1,0 +1,2 @@
+#!/bin/bash
+/opt/MIKSOFT/MobileMediaConverter/lib/mmc "$@"

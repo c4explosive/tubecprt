@@ -1,0 +1,7 @@
+autoDetectSubs==True
+lastUpdateNotified==182
+youtubeOutput==Desktop
+youtubeQuality==2
+lastProfile==2
+upvisible==yes
+downvisible==yes
